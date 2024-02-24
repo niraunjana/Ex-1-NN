@@ -88,6 +88,22 @@ print(len(x_test))
 
 DATASET:
 ![307528672-6258c482-3ac4-42a7-bbbe-4d77d1805ae8](https://github.com/niraunjana/Ex-1-NN/assets/119395610/38fa9ae2-a4c1-4011-a775-fa13b997ffdd)
+DROPPING THE UNWANTED DATASET:
+![307528812-b8a01314-62ba-40bf-a710-44acddc07ebb](https://github.com/niraunjana/Ex-1-NN/assets/119395610/7a5b3937-aa9b-4e36-a838-33e0814368fb)
+CHECKING NULL VALUES:
+![307528893-bf72ec6b-6df3-4937-9110-d53e72dbc670](https://github.com/niraunjana/Ex-1-NN/assets/119395610/abb6f434-0187-41c6-b6c7-17c1aea6408a)
+CHECKING FOR DUPLICATION:
+![307528982-567efbe2-458d-4746-9f98-569af1c17045](https://github.com/niraunjana/Ex-1-NN/assets/119395610/21e21c0f-66cc-46e8-9d3d-b436e1ba9749)
+DESCRIBING THE DATASET:
+![307529026-8a0a5a6f-9b51-447f-8ebc-58bf1985bd58](https://github.com/niraunjana/Ex-1-NN/assets/119395610/bc069d78-4233-4062-a518-52fd4553550e)
+SCALING THE DATASET:
+![307529078-e0f4884c-b7c6-4eaf-9212-c80e360ce5d2](https://github.com/niraunjana/Ex-1-NN/assets/119395610/622a1c99-4ea2-4bb3-b29d-d8c0b4c95fcc)
+X FEATURES:
+![307529270-34973f72-79bf-47ee-b363-9c5ede485e08](https://github.com/niraunjana/Ex-1-NN/assets/119395610/8351440b-3346-4236-b131-16e208ae84bc)
+Y FEATURES:
+![307529299-e15a0d22-a9ef-4c67-b83b-f537ad5e942a](https://github.com/niraunjana/Ex-1-NN/assets/119395610/b3c1fb39-165d-4933-9f06-6bc0c061f843)
+SPLITTING THE TRAINING AND TESTING DATASET:
+![307529356-75a0e3ed-65e8-4795-a112-0324ac96295e](https://github.com/niraunjana/Ex-1-NN/assets/119395610/66cbcbb6-d473-4d85-b16b-42cd87067584)
 
 
 ## RESULT:
