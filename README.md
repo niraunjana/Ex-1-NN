@@ -85,10 +85,9 @@ print(len(x_test))
 ```
 
 ## OUTPUT:
-```
+
 DATASET:
-![307528672-6258c482-3ac4-42a7-bbbe-4d77d1805ae8](https://github.com/niraunjana/Ex-1-NN/assets/119395610/c46c3e6d-9e49-4ffa-bf0b-7b91b2b20024)
-```
+![307528672-6258c482-3ac4-42a7-bbbe-4d77d1805ae8](https://github.com/niraunjana/Ex-1-NN/assets/119395610/38fa9ae2-a4c1-4011-a775-fa13b997ffdd)
 
 
 ## RESULT:
