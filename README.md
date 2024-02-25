@@ -102,6 +102,27 @@ CHECKING FOR DUPLICATION:
 
 ![307528982-567efbe2-458d-4746-9f98-569af1c17045](https://github.com/niraunjana/Ex-1-NN/assets/119395610/af0d6e5d-8a52-410d-901f-236887b512e6)
 
+DESCRIBING THE DATASET:
+
+![307529026-8a0a5a6f-9b51-447f-8ebc-58bf1985bd58](https://github.com/niraunjana/Ex-1-NN/assets/119395610/7efcd58e-5b06-4ab3-9e9a-df7d9a26d0f3)
+
+SCALING THE DATASET:
+
+![307529078-e0f4884c-b7c6-4eaf-9212-c80e360ce5d2](https://github.com/niraunjana/Ex-1-NN/assets/119395610/1381b730-fb62-44cd-861a-7d260a7a55d2)
+
+X FEATURES:
+
+![307529270-34973f72-79bf-47ee-b363-9c5ede485e08](https://github.com/niraunjana/Ex-1-NN/assets/119395610/42e2f068-d798-4721-96ec-555c95d97cd0)
+
+Y FEATURES:
+
+![307529299-e15a0d22-a9ef-4c67-b83b-f537ad5e942a](https://github.com/niraunjana/Ex-1-NN/assets/119395610/6df83942-4ebf-470e-85a7-71109e9d6214)
+
+SPLITTING THE TRAINING AND TESTING DATASET:
+
+![307529356-75a0e3ed-65e8-4795-a112-0324ac96295e](https://github.com/niraunjana/Ex-1-NN/assets/119395610/87107db2-18d0-4ed3-a541-4a8d631bec35)
+
+
 ### RESULT:
 Thus, Implementation of Data Preprocessing is done in python  using a data set downloaded from Kaggle.
 
